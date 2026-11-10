@@ -1,0 +1,53 @@
+{
+  "manifest_version": 2,
+  "name": "Noctiluna",
+  "version": "1.0.0",
+  "description": "A dark theme with charcoal surfaces and pink, purple and cyan accents.",
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "157.0"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#0a0a0a",
+      "frame_inactive": "#171717",
+      "tab_background_text": "#a3a3a3",
+      "tab_text": "#f5f5f5",
+      "tab_selected": "#29202a",
+      "tab_line": "#f472b6",
+      "toolbar": "#171717",
+      "toolbar_text": "#f5f5f5",
+      "bookmark_text": "#f5f5f5",
+      "icons": "#f5f5f5",
+      "icons_attention": "#f472b6",
+      "button_background_hover": "#29202a",
+      "button_background_active": "#3b2635",
+      "toolbar_field": "#0a0a0a",
+      "toolbar_field_text": "#f5f5f5",
+      "toolbar_field_border": "#303030",
+      "toolbar_field_border_focus": "#f472b6",
+      "toolbar_field_focus": "#171717",
+      "toolbar_field_text_focus": "#f5f5f5",
+      "toolbar_field_highlight": "#3b2635",
+      "toolbar_field_highlight_text": "#ffffff",
+      "toolbar_bottom_separator": "#303030",
+      "popup": "#171717",
+      "popup_text": "#f5f5f5",
+      "popup_border": "#303030",
+      "popup_highlight": "#3b2635",
+      "popup_highlight_text": "#ffffff",
+      "sidebar": "#171717",
+      "sidebar_text": "#f5f5f5",
+      "sidebar_highlight": "#3b2635",
+      "sidebar_highlight_text": "#ffffff",
+      "ntp_background": "#0a0a0a",
+      "ntp_text": "#f5f5f5",
+      "ntp_card_background": "#171717"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}

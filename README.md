@@ -56,12 +56,38 @@ Create the directory if necessary. Open XFCE4 Terminal Preferences, select Color
 | Sublime Text | `editors/sublime-text/Noctiluna.sublime-color-scheme` |
 | Qt6ct | `desktop/qt6ct/noctiluna.conf` |
 | Ghostwriter | `desktop/ghostwriter/Noctiluna-Ghostwriter.json` |
+| Fluux Messenger | `desktop/fluux/Noctiluna.json` |
+| Lightning Matrix | `desktop/lightning/Noctiluna.json` |
+
+### Fluux Messenger
+
+In Fluux Messenger, open Settings → Appearance → Import theme and select `desktop/fluux/Noctiluna.json`.
+
+### Lightning Matrix
+
+The theme is provided as `desktop/lightning/Noctiluna.json`.
+
+## Browser themes
+
+| Browser | Theme files |
+|---|---|
+| Vivaldi | `browsers/vivaldi/` |
+| Firefox / LibreWolf | `browsers/firefox/` |
+
+### Vivaldi
+
+Import the packaged `Noctiluna-Vivaldi.zip` through Vivaldi's theme settings.
+
+### Firefox / LibreWolf
+
+The Firefox theme is provided as a WebExtension. It can be loaded temporarily through `about:debugging`. Permanent installation requires a signed extension.
 
 ## Project structure
 
 ```text
 noctiluna-colourscheme/
 ├── assets/                  Palette artwork
+├── browsers/                Browser themes
 ├── desktop/                 Desktop application themes
 ├── editors/                 Editor themes
 ├── palette/                 Master colour definitions

@@ -1,0 +1,63 @@
+
+{
+  "id": "noctiluna",
+  "name": "Noctiluna",
+  "author": "luchadave",
+  "version": "1.0.0",
+  "description": "A deep charcoal theme with orchid pink, purple and cyan accents.",
+  "variables": {
+    "dark": {
+      "--fluux-base-00": "#0a0a0a",
+      "--fluux-base-05": "#101010",
+      "--fluux-base-10": "#171717",
+      "--fluux-base-20": "#202020",
+      "--fluux-base-30": "#141414",
+      "--fluux-base-40": "#29202a",
+      "--fluux-base-50": "#3b2635",
+      "--fluux-base-60": "#737373",
+      "--fluux-base-70": "#a3a3a3",
+      "--fluux-base-80": "#c4c4c4",
+      "--fluux-base-90": "#f5f5f5",
+      "--fluux-base-100": "#ffffff",
+
+      "--fluux-accent-h": "330",
+      "--fluux-accent-s": "83%",
+      "--fluux-accent-l": "71%",
+
+      "--fluux-color-red": "#fb7185",
+      "--fluux-color-red-rgb": "251, 113, 133",
+      "--fluux-color-green": "#63d6a3",
+      "--fluux-color-green-rgb": "99, 214, 163",
+      "--fluux-color-yellow": "#ffad67",
+      "--fluux-color-yellow-rgb": "255, 173, 103",
+      "--fluux-color-blue": "#67e8f9",
+      "--fluux-color-blue-rgb": "103, 232, 249",
+      "--fluux-color-purple": "#c084fc",
+      "--fluux-color-purple-rgb": "192, 132, 252",
+      "--fluux-color-gray": "#737373",
+      "--fluux-color-gray-rgb": "115, 115, 115",
+
+      "--fluux-text-link": "#f472b6",
+      "--fluux-text-error": "#fda4af",
+      "--fluux-border-color": "#303030",
+      "--fluux-scrollbar-thumb": "#737373",
+      "--fluux-scrollbar-thumb-hover": "#a3a3a3",
+
+      "--fluux-chat-bg": "#141414",
+      "--fluux-sidebar-bg": "#202020",
+      "--fluux-rail-bg": "#0a0a0a",
+      "--fluux-input-bg": "#171717",
+      "--fluux-modal-bg": "#202020",
+      "--fluux-tooltip-bg": "#171717"
+    }
+  },
+  "swatches": {
+    "dark": [
+      "#0a0a0a",
+      "#171717",
+      "#f472b6",
+      "#c084fc",
+      "#67e8f9"
+    ]
+  }
+}
