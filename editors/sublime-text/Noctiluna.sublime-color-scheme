@@ -1,0 +1,153 @@
+{
+    "name": "Noctiluna",
+    "globals": {
+        "foreground": "#f5f5f5",
+        "background": "#0a0a0a",
+        "caret": "#f472b6",
+        "block_caret": "#171717",
+        "line_highlight": "#171717",
+        "selection": "#3b2635",
+        "selection_foreground": "#fff5fa",
+        "selection_border": "#f472b6",
+        "inactive_selection": "#29202a",
+        "inactive_selection_foreground": "#d4d4d4",
+        "find_highlight": "#5b344d",
+        "find_highlight_foreground": "#fff5fa",
+        "guide": "#303030",
+        "active_guide": "#55505a",
+        "stack_guide": "#38313d",
+        "brackets_foreground": "#c084fc",
+        "bracket_contents_foreground": "#f5f5f5",
+        "bracket_contents_options": "underline",
+        "tags_foreground": "#f472b6",
+        "shadow": "#000000"
+    },
+    "rules": [
+        {
+            "scope": "comment",
+            "foreground": "#737373",
+            "font_style": "italic"
+        },
+        {
+            "scope": "string",
+            "foreground": "#a3be8c"
+        },
+        {
+            "scope": "constant.numeric",
+            "foreground": "#f0b67f"
+        },
+        {
+            "scope": "constant.language",
+            "foreground": "#c084fc"
+        },
+        {
+            "scope": "constant.character, constant.other",
+            "foreground": "#f0b67f"
+        },
+        {
+            "scope": "keyword",
+            "foreground": "#f472b6"
+        },
+        {
+            "scope": "storage",
+            "foreground": "#f472b6"
+        },
+        {
+            "scope": "entity.name.function, support.function",
+            "foreground": "#c084fc"
+        },
+        {
+            "scope": "entity.name.class, entity.name.type",
+            "foreground": "#e5b8ff"
+        },
+        {
+            "scope": "entity.name.tag",
+            "foreground": "#f472b6"
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "foreground": "#c084fc"
+        },
+        {
+            "scope": "variable",
+            "foreground": "#f5f5f5"
+        },
+        {
+            "scope": "variable.parameter",
+            "foreground": "#e6c7d8"
+        },
+        {
+            "scope": "variable.language",
+            "foreground": "#f472b6"
+        },
+        {
+            "scope": "punctuation",
+            "foreground": "#a3a3a3"
+        },
+        {
+            "scope": "punctuation.definition",
+            "foreground": "#c084fc"
+        },
+        {
+            "scope": "support.type, support.class",
+            "foreground": "#e5b8ff"
+        },
+        {
+            "scope": "support.constant",
+            "foreground": "#f0b67f"
+        },
+        {
+            "scope": "invalid",
+            "foreground": "#fff5fa",
+            "background": "#7f1d3a"
+        },
+        {
+            "scope": "markup.heading",
+            "foreground": "#f472b6",
+            "font_style": "bold"
+        },
+        {
+            "scope": "markup.bold",
+            "foreground": "#f5f5f5",
+            "font_style": "bold"
+        },
+        {
+            "scope": "markup.italic",
+            "foreground": "#e5b8ff",
+            "font_style": "italic"
+        },
+        {
+            "scope": "markup.underline",
+            "font_style": "underline"
+        },
+        {
+            "scope": "markup.quote",
+            "foreground": "#a3a3a3",
+            "font_style": "italic"
+        },
+        {
+            "scope": "markup.inserted",
+            "foreground": "#a3be8c"
+        },
+        {
+            "scope": "markup.deleted",
+            "foreground": "#fb7185"
+        },
+        {
+            "scope": "markup.changed",
+            "foreground": "#f0b67f"
+        },
+        {
+            "scope": "meta.diff.header",
+            "foreground": "#c084fc"
+        },
+        {
+            "scope": "entity.name.section",
+            "foreground": "#f472b6"
+        },
+        {
+            "scope": "source",
+            "foreground": "#f5f5f5"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Noctiluna",
+  "core": {
+    "background": "#0a0a0a",
+    "surface": "#171717",
+    "foreground": "#f5f5f5",
+    "accent": "#f472b6",
+    "selection": "#3b2635",
+    "cursor": "#f472b6"
+  },
+  "terminal": {
+    "background": "#0a0a0a",
+    "foreground": "#f5f5f5",
+    "cursor": "#f472b6",
+    "selection_background": "#3b2635",
+    "selection_foreground": "#ffffff",
+    "normal": ["#737373", "#f472b6", "#a3e635", "#fbbf24", "#c084fc", "#e879f9", "#67e8f9", "#f5f5f5"],
+    "bright": ["#a3a3a3", "#fb7185", "#bef264", "#fde68a", "#d8b4fe", "#f0abfc", "#a5f3fc", "#ffffff"]
+  },
+  "extended": [
+    "#000000", "#0a0a0a", "#171717", "#29202a", "#29212a", "#303030", "#38313d", "#3b2635", "#55505a", "#573047",
+    "#5b344d", "#67e8f9", "#737373", "#7e22ce", "#7f1d3a", "#807777", "#80f472", "#8b7284", "#a3a3a3", "#a3be8c",
+    "#a3e635", "#a5f3fc", "#be123c", "#be185d", "#bef264", "#c084fc", "#d4d4d4", "#d8b4fe", "#db2777", "#e5b8ff",
+    "#e6c7d8", "#e879f9", "#f0abfc", "#f0b67f", "#f472b6", "#f5c6df", "#f5f5f5", "#fb7185", "#fbbf24", "#fde68a",
+    "#ff0505", "#ff0a0a", "#ff1010", "#ff1717", "#ff2020", "#ff2222", "#ff2525", "#ff2929", "#ff3030", "#ff7777",
+    "#ff8064", "#ff9999", "#ff9d55", "#ffc084", "#fff472", "#fff5f5", "#fff5fa", "#fff7fb", "#ffffff"
+  ]
+}
